@@ -1,11 +1,11 @@
-枭雄争霸技术支持</br></br>
+斩情诀技术支持</br></br>
 第一张图片：</br>
-![](https://github.com/jejubewrdue/jejubewrdue/blob/xxzb/1.png?raw=true)</br></br>
+![](https://github.com/jejubewrdue/jejubewrdue/blob/zqj/1.jpg?raw=true)</br></br>
 第二张图片：</br>
-![](https://github.com/jejubewrdue/jejubewrdue/blob/xxzb/2.png?raw=true)</br></br>
+![](https://github.com/jejubewrdue/jejubewrdue/blob/zqj/2.jpg?raw=true)</br></br>
 第三张图片：</br>
-![](https://github.com/jejubewrdue/jejubewrdue/blob/xxzb/3.png?raw=true)</br></br>
+![](https://github.com/jejubewrdue/jejubewrdue/blob/zqj/3.jpg?raw=true)</br></br>
 第四张图片：</br>
-![](https://github.com/jejubewrdue/jejubewrdue/blob/xxzb/4.png?raw=true)</br></br>
+![](https://github.com/jejubewrdue/jejubewrdue/blob/zqj/4.jpg?raw=true)</br></br>
 第五张图片：</br>
-![](https://github.com/jejubewrdue/jejubewrdue/blob/xxzb/5.png?raw=true)</br></br>
+![](https://github.com/jejubewrdue/jejubewrdue/blob/zqj/5.jpg?raw=true)</br></br>
